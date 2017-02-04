@@ -18,7 +18,7 @@ $ cd ScreenSharer/bin/
 * Run the Application
 
 ```
-$ java bin.ScreenShare
+$ java ScreenShare
 ```
 
   - For the server, type server followed by a port, (any integer between 1024 and 65534 should work)
